@@ -1,0 +1,28 @@
+c:\users\vfgui.desktop-55pvkni\onedrive\documentos\visual studio 2017\Projects\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\bin\Debug\PROG_REL9_Ej1_Vera_Guillermo.exe.config
+c:\users\vfgui.desktop-55pvkni\onedrive\documentos\visual studio 2017\Projects\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\bin\Debug\PROG_REL9_Ej1_Vera_Guillermo.exe
+c:\users\vfgui.desktop-55pvkni\onedrive\documentos\visual studio 2017\Projects\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\bin\Debug\PROG_REL9_Ej1_Vera_Guillermo.pdb
+c:\users\vfgui.desktop-55pvkni\onedrive\documentos\visual studio 2017\Projects\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\PROG_REL9_Ej1_Vera_Guillermo.csprojResolveAssemblyReference.cache
+c:\users\vfgui.desktop-55pvkni\onedrive\documentos\visual studio 2017\Projects\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\MainWindow.g.cs
+c:\users\vfgui.desktop-55pvkni\onedrive\documentos\visual studio 2017\Projects\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\App.g.cs
+c:\users\vfgui.desktop-55pvkni\onedrive\documentos\visual studio 2017\Projects\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\PROG_REL9_Ej1_Vera_Guillermo_MarkupCompile.cache
+c:\users\vfgui.desktop-55pvkni\onedrive\documentos\visual studio 2017\Projects\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\PROG_REL9_Ej1_Vera_Guillermo_MarkupCompile.lref
+c:\users\vfgui.desktop-55pvkni\onedrive\documentos\visual studio 2017\Projects\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\MainWindow.baml
+c:\users\vfgui.desktop-55pvkni\onedrive\documentos\visual studio 2017\Projects\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\PROG_REL9_Ej1_Vera_Guillermo.g.resources
+c:\users\vfgui.desktop-55pvkni\onedrive\documentos\visual studio 2017\Projects\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\PROG_REL9_Ej1_Vera_Guillermo.Properties.Resources.resources
+c:\users\vfgui.desktop-55pvkni\onedrive\documentos\visual studio 2017\Projects\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\PROG_REL9_Ej1_Vera_Guillermo.csproj.GenerateResource.Cache
+c:\users\vfgui.desktop-55pvkni\onedrive\documentos\visual studio 2017\Projects\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\PROG_REL9_Ej1_Vera_Guillermo.exe
+c:\users\vfgui.desktop-55pvkni\onedrive\documentos\visual studio 2017\Projects\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\PROG_REL9_Ej1_Vera_Guillermo.pdb
+F:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\bin\Debug\PROG_REL9_Ej1_Vera_Guillermo.exe.config
+F:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\PROG_REL9_Ej1_Vera_Guillermo.exe
+F:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\PROG_REL9_Ej1_Vera_Guillermo.pdb
+F:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\PROG_REL9_Ej1_Vera_Guillermo.csprojResolveAssemblyReference.cache
+F:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\MainWindow.g.cs
+F:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\App.g.cs
+F:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\PROG_REL9_Ej1_Vera_Guillermo_MarkupCompile.cache
+F:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\PROG_REL9_Ej1_Vera_Guillermo_MarkupCompile.lref
+F:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\bin\Debug\PROG_REL9_Ej1_Vera_Guillermo.exe
+F:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\bin\Debug\PROG_REL9_Ej1_Vera_Guillermo.pdb
+F:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\MainWindow.baml
+F:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\PROG_REL9_Ej1_Vera_Guillermo.g.resources
+F:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\PROG_REL9_Ej1_Vera_Guillermo.Properties.Resources.resources
+F:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL9_Ej1_Vera_Guillermo\PROG_REL9_Ej1_Vera_Guillermo\obj\Debug\PROG_REL9_Ej1_Vera_Guillermo.csproj.GenerateResource.Cache
