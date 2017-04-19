@@ -1,0 +1,21 @@
+﻿<Window x:Class="PROG_REL9_Ej3_Vera_Guillermo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Acierta mi número" Height="285.821" Width="542"
+        ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="59*"/>
+            <RowDefinition Height="69*"/>
+        </Grid.RowDefinitions>
+        
+        <Button x:Name="btnGenerarNumero" Content="Generar número" HorizontalAlignment="Left" Margin="85,64,0,0" VerticalAlignment="Top" Width="120" Click="btnGenerarNumero_Click" ToolTip="Se generará un número random del 0 al 100." Cursor="Hand"/>
+        <Button x:Name="btnProbar" Content="Probar" HorizontalAlignment="Left" Margin="349,31,0,0" VerticalAlignment="Top" Width="75" ToolTip="Probar si el número es correcto" Grid.Row="1" Click="btnProbar_Click" Cursor="Hand"/>
+        <TextBox x:Name="txbxEscribirNumero" HorizontalAlignment="Left" Height="23" Margin="85,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="54" ToolTip="Escribe un número entre 0 y 100." MaxLength="3" Grid.Row="1" ForceCursor="True"/>
+        <CheckBox x:Name="chbxVerNumero" Content="Ver número" HorizontalAlignment="Left" Margin="349,67,0,0" VerticalAlignment="Top" ToolTip="Ver el número generado." Click="chbxVerNumero_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="85,7,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="19" Width="120" Grid.Row="1"><Run Language="es-es" Text="Acierta el número"/><LineBreak/><Run Language="es-es"/></TextBlock>
+        <TextBlock x:Name="txbkResultado" HorizontalAlignment="Left" Margin="85,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="32" Width="339" FontSize="16" FontWeight="Bold" Grid.Row="1"/>
+        <TextBlock x:Name="txtbkVerNumero" HorizontalAlignment="Left" Margin="445,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" IsHitTestVisible="True" Visibility="Hidden"><Run Language="es-es" Text="==&gt; "/></TextBlock>
+        <TextBlock x:Name="txtbkNumero" HorizontalAlignment="Left" Margin="445,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" Height="19"/>
+    </Grid>
+</Window>
