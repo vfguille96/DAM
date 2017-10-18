@@ -1,0 +1,5 @@
+D:\alumno1718\Documentos\Visual Studio 2012\Projects\App_JugandoConTipos_V1\App_JugandoConTipos_V1\bin\Debug\App_JugandoConTipos_V1.exe.config
+D:\alumno1718\Documentos\Visual Studio 2012\Projects\App_JugandoConTipos_V1\App_JugandoConTipos_V1\bin\Debug\App_JugandoConTipos_V1.exe
+D:\alumno1718\Documentos\Visual Studio 2012\Projects\App_JugandoConTipos_V1\App_JugandoConTipos_V1\bin\Debug\App_JugandoConTipos_V1.pdb
+D:\alumno1718\Documentos\Visual Studio 2012\Projects\App_JugandoConTipos_V1\App_JugandoConTipos_V1\obj\Debug\App_JugandoConTipos_V1.exe
+D:\alumno1718\Documentos\Visual Studio 2012\Projects\App_JugandoConTipos_V1\App_JugandoConTipos_V1\obj\Debug\App_JugandoConTipos_V1.pdb
