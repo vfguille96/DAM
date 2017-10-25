@@ -1,0 +1,12 @@
+C:\Users\vfgui.DESKTOP-55PVKNI\OneDrive\Documentos\Visual Studio 2017\Projects\PROG_REL2_EJ16_Vera_Guillermo\PROG_REL2_EJ16_Vera_Guillermo\bin\Debug\PROG_REL2_EJ16_Vera_Guillermo.exe.config
+C:\Users\vfgui.DESKTOP-55PVKNI\OneDrive\Documentos\Visual Studio 2017\Projects\PROG_REL2_EJ16_Vera_Guillermo\PROG_REL2_EJ16_Vera_Guillermo\bin\Debug\PROG_REL2_EJ16_Vera_Guillermo.exe
+C:\Users\vfgui.DESKTOP-55PVKNI\OneDrive\Documentos\Visual Studio 2017\Projects\PROG_REL2_EJ16_Vera_Guillermo\PROG_REL2_EJ16_Vera_Guillermo\bin\Debug\PROG_REL2_EJ16_Vera_Guillermo.pdb
+C:\Users\vfgui.DESKTOP-55PVKNI\OneDrive\Documentos\Visual Studio 2017\Projects\PROG_REL2_EJ16_Vera_Guillermo\PROG_REL2_EJ16_Vera_Guillermo\obj\Debug\PROG_REL2_EJ16_Vera_Guillermo.csproj.CoreCompileInputs.cache
+C:\Users\vfgui.DESKTOP-55PVKNI\OneDrive\Documentos\Visual Studio 2017\Projects\PROG_REL2_EJ16_Vera_Guillermo\PROG_REL2_EJ16_Vera_Guillermo\obj\Debug\PROG_REL2_EJ16_Vera_Guillermo.exe
+C:\Users\vfgui.DESKTOP-55PVKNI\OneDrive\Documentos\Visual Studio 2017\Projects\PROG_REL2_EJ16_Vera_Guillermo\PROG_REL2_EJ16_Vera_Guillermo\obj\Debug\PROG_REL2_EJ16_Vera_Guillermo.pdb
+E:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL2_EJ16_Vera_Guillermo\PROG_REL2_EJ16_Vera_Guillermo\bin\Debug\PROG_REL2_EJ16_Vera_Guillermo.exe.config
+E:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL2_EJ16_Vera_Guillermo\PROG_REL2_EJ16_Vera_Guillermo\obj\Debug\PROG_REL2_EJ16_Vera_Guillermo.exe
+E:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL2_EJ16_Vera_Guillermo\PROG_REL2_EJ16_Vera_Guillermo\obj\Debug\PROG_REL2_EJ16_Vera_Guillermo.pdb
+E:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL2_EJ16_Vera_Guillermo\PROG_REL2_EJ16_Vera_Guillermo\bin\Debug\PROG_REL2_EJ16_Vera_Guillermo.exe
+E:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL2_EJ16_Vera_Guillermo\PROG_REL2_EJ16_Vera_Guillermo\bin\Debug\PROG_REL2_EJ16_Vera_Guillermo.pdb
+E:\DAM\CLASE-\PROG\Proyectos PROG\PROG_REL2_EJ16_Vera_Guillermo\PROG_REL2_EJ16_Vera_Guillermo\obj\Debug\PROG_REL2_EJ16_Vera_Guillermo.csprojResolveAssemblyReference.cache
