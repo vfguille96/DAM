@@ -75,13 +75,13 @@ namespace PROG_REL3_EJ16_Vera_Guillermo
                         contadorU++;
                         break;
                 }
-                
-                // Llama al método para el recuento de vocales.
+                               
                 Console.ReadLine();
                 Console.Write(" Introduce una vocal: ");
                 entradaTeclado = (char)Console.Read();
             } while (entradaTeclado != asterisco);
 
+            // Llama al método para el recuento de vocales.
             EscribirNumeroCaracteres(contadorA, contadorE, contadorI, contadorO, contadorU);
             Console.ReadLine();
         }
