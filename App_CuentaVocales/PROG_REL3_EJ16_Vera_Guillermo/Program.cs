@@ -74,13 +74,9 @@ namespace PROG_REL3_EJ16_Vera_Guillermo
                     case 'U':
                         contadorU++;
                         break;
-
-                    case '*':
-                        // En el caso de insertar un asterisco por teclado, llama al método para el recuento de vocales.
-                        EscribirNumeroCaracteres(contadorA, contadorE, contadorI, contadorO, contadorU);
-                        break;
                 }
-
+                
+                // Llama al método para el recuento de vocales.
                 Console.ReadLine();
                 Console.Write(" Introduce una vocal: ");
                 entradaTeclado = (char)Console.Read();
