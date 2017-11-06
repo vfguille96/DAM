@@ -40,7 +40,7 @@ namespace PROG_REL4_EJ8_Vera_Guillermo
                     Console.Clear();
                     Console.WriteLine("\n\n **********************************************");
                     // Escribimos el caracter introducido y llamamos a la función que convierte a mayúsculas como parámetro el caracter que hemos leído de la consola. Dicha función devuelve el caracter en mayúsculas.
-                    Console.WriteLine("\n     El caracter \"{0}\" en mayúsculas es : \"{1}\"\n", (char)caracter, ConvertirCaracterAMayusculas(caracter));
+                    Console.WriteLine("\n     El caracter \"{0}\" en mayúsculas es: \"{1}\"\n", (char)caracter, ConvertirCaracterAMayusculas(caracter));
                     Console.WriteLine(" **********************************************\n\n");
                 }
             }
