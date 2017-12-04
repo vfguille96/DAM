@@ -48,7 +48,7 @@ namespace PROG_REL5_EJ9_Vera_G
             switch (tecla.KeyChar)
             {
                 case '1':
-                    if (nPersonas <= NMAXPERS)
+                    if (nPersonas < NMAXPERS)
                     {
                         if (!AddPersona(arrayPersonas, CrearFichaPersona()))
                             ErrorAnadirDatos();
