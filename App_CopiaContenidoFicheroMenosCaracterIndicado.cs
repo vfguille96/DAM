@@ -29,6 +29,16 @@ namespace PROG_REL8_EJ3_Vera_G
 			string contenido = "";
 			char tmp;
 
+			if (!File.Exists(rutaO))
+			{
+				Console.Clear();
+				Console.WriteLine("=====================================================");
+				Console.WriteLine("      ERROR: EL FICHERO DE ORIGEN NO EXISTE.");
+				Console.WriteLine("=====================================================");
+				Console.ReadLine();
+				return;
+			}
+			
 			StreamReader sr = new StreamReader(rutaO);
 
 			do
